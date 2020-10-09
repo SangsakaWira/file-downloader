@@ -1,0 +1,24 @@
+{
+  "name": "file-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SangsakaWira/file-downloader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SangsakaWira/file-downloader/issues"
+  },
+  "homepage": "https://github.com/SangsakaWira/file-downloader#readme",
+  "dependencies": {
+    "archiver": "^5.0.2",
+    "express": "^4.17.1"
+  }
+}
